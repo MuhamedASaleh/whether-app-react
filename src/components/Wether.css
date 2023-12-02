@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+}
+
+li {
+    color: #fff;
+    font-size: 25px;
+    border: 2px solid;
+    border-color: #ced6ff transparent transparent transparent;
+    max-width: 170px;
+    margin: 0 0 10px 28px;
+}
+
+li:first-of-type {
+    border-top: transparent;
+}
+
+.error {
+    max-width: fit-content;
+}

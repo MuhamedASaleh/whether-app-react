@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #0096888c;
+  height: 100vh;
+  display:flex;
+}
+
+.container {
+  width: 60%;
+    background-color: #066d63;
+    padding: 30px 0;
+    margin: auto;
+    height: 80vh;
+
+}
+
+
+
